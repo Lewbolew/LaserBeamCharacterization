@@ -72,7 +72,7 @@ torchvision==0.2.1
 tqdm==4.28.1
 typing==3.6.4
 typing-extensions==3.6.5
-urllib3==1.23
+urllib3==1.24.2
 virtualenv==16.0.0
 webcolors==1.8.1
 Werkzeug==0.14.1
