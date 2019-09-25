@@ -57,7 +57,7 @@ pytorch-fft==0.15
 pytz==2018.4
 PyWavelets==0.5.2
 PyYAML==3.13
-requests==2.19.1
+requests==2.20.0
 scikit-image==0.13.1
 scipy==1.1.0
 Shapely==1.6.4.post2
