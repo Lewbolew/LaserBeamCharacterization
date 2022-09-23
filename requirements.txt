@@ -44,7 +44,7 @@ paramiko==2.4.1
 paycheck==1.0.2
 pbr==4.0.4
 Pillow==5.0.0
-protobuf==3.6.0
+protobuf==3.18.3
 py-expression-eval==0.3.4
 pyasn1==0.4.3
 pybind11==2.2.3
