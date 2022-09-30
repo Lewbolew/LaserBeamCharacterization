@@ -23,7 +23,7 @@ html5lib==0.9999999
 idna==2.7
 imageio==2.4.1
 imgaug==0.2.7
-joblib==0.11
+joblib==1.2.0
 Keras==2.2.2
 Keras-Applications==1.0.4
 Keras-Preprocessing==1.0.2
